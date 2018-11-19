@@ -1,2 +1,2 @@
-# turbulenceP1
+# Turbulence project
 Project in turbulence
